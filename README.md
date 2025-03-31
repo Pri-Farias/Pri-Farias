@@ -12,8 +12,8 @@ A IA tem sido minha parceira fiel nessa caminhada. Aprendi muito com ela e conti
 
 ### 📊 **GitHub Stats**  
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=radical"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pri-Farias&show_icons=true&theme=radical"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pri-Farias&layout=compact&langs_count=7&theme=radical"/>  
 </div>  
 
 ---  
