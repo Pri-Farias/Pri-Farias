@@ -1,10 +1,3 @@
-
-
-<!-- Avatar opcional -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/158013662?v=4" width="120" style="border-radius: 50%" />
-</p>
-
 <!-- Banner -->
 <p align="center">
   <img src="https://i.postimg.cc/ncdGF310/Captura-de-tela-2025-04-10-160207.png" width="90%" />
