@@ -1,7 +1,8 @@
 <!-- Typing animation fancy -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=08F7FE&center=true&width=435&lines=Oi%2C+eu+sou+a+Pri!;Front-End+Developer+em+evolução;Apaixonada+por+tech+e+inovação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=08F7FE&center=true&width=435&lines=Oi%2C+eu+sou+a+Pri!;Front-End+Developer+em+evolução;Apaixonada+por+tech+e+inovação&ref=github" alt="Typing SVG" />
 </p>
+
 
 <!-- Avatar opcional -->
 <p align="center">
