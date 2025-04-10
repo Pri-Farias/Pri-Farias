@@ -1,5 +1,7 @@
+<!-- README.md personalizado para Pri-Farias -->
+
 <h1 align="center">Oi, eu sou a Pri! 👩‍💻</h1>
-<p align="center"><strong>Frontend Developer | Estudante de TI | Explorando o mundo da tecnologia com criatividade e código.</strong></p>
+<p align="center"><strong>Frontend Developer | Estudante de TI | Criando interfaces incríveis com paixão e criatividade.</strong></p>
 
 <p align="center">
   <em>"O código de hoje é sempre melhor que o de ontem!"</em>
@@ -15,9 +17,10 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de Tecnologia da Informação na Estácio
+- 🎓 Estudante de Tecnologia da Informação na Estácio de Sá
 - 💻 Focada em me tornar uma especialista em Front-End
-- 🌈 Curiosa por inovação, interações e experiências visuais cativantes
+- 🌈 Apaixonada por inovação e experiências visuais cativantes
+- 🥤 Sim, eu tomo coca-cola codando ☕
 
 ---
 
@@ -39,12 +42,19 @@
 
 ---
 
+### 🛠️ Projetos Recentes
+
+- [Starbucks Clone](https://github.com/Pri-Farias/starbuks-clone): Meu primeiro projeto de desenvolvimento web, recriando a página inicial do Starbucks.
+- [Gamer Kids](https://github.com/Pri-Farias/gamer-kids): Jogos educativos para crianças desenvolvidos com HTML, CSS e JavaScript.
+
+---
+
 ### 📬 Onde me encontrar
 
 <p align="center">
   <a href="mailto:prifariasdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/prifariasdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- Adicione aqui seu link de portfólio futuramente -->
+  <a href="https://raw.githubusercontent.com/Pri-Farias/Pri-Farias/main/assets/curriculo.pdf"><img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
