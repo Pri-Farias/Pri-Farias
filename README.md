@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
+</p>
+
+<h2 align="center">Oie, eu sou a Pri 👩‍💻 <br> Front-End em construção, foguete não dá ré 🚀</h2>
 <!-- Banner Topo -->
 <img src="https://i.postimg.cc/ncdGF310/Captura-de-tela-2025-04-10-160207.png" alt="Banner Pri Farias" width="100%" />
 
